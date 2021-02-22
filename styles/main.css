@@ -433,8 +433,8 @@ body {
     left: 0;
     right: 0;
     margin: 3%;
-    overflow: hidden;
     transition: 0.5s;
+    overflow: scroll;  
 }
 
 
@@ -1054,7 +1054,6 @@ ul li:hover .line {
     }
     .event {
         transform: translateY(-10%);
-        overflow: scroll;  
     }
     .event h1 {
         font-size: 17px;
