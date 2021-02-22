@@ -596,7 +596,8 @@ ul li:hover .line {
   max-height: 25vh;
   max-width: 25vw;
   padding: 0;
-  min-width: 310px;
+  /* min-width: 310px; */
+  width: 80%;
 }
 
 
