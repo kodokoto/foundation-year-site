@@ -619,6 +619,7 @@ ul li:hover .line {
 .item a {
     text-decoration: none;
     transition: 0.5s;
+    color: red;
 }
 
 .item a:hover {
