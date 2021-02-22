@@ -1046,12 +1046,7 @@ ul li:hover .line {
     #home .intro-image {
     transform: translate(0, -50%) rotateY(-40deg) scale(0.65, 0.65);
     }
-    /* .news-img , .post img {
-        display: none;
-    } */
-    /* .news-text, .news-headline, .text, .post h1 {
-        width: 100%;
-    } */
+
     .event {
         transform: translateY(-10%);
         overflow: scroll;  
