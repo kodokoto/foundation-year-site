@@ -1029,7 +1029,7 @@ ul li:hover .line {
     }
 }
 
-@media only screen and (max-width: 1300px) {
+@media only screen and (max-width: 1450px) {
     .navigation-box {
     transform: translate(0, -50%) rotateY(40deg) scale(0.65, 0.65);
    
