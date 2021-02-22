@@ -445,7 +445,7 @@ ul li:hover .event{
 
 .event h1 {
     font-family: 'retro_gaming';
-    font-size: 35px;
+    font-size: 220%;
     color: red;
     margin-left: 2%;
     top: -2%;
@@ -596,7 +596,6 @@ ul li:hover .line {
   max-height: 25vh;
   max-width: 25vw;
   padding: 0;
-  /* min-width: 310px; */
   width: 80%;
 }
 
